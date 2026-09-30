@@ -11,5 +11,5 @@ Gatavs, kad: tu vari paskaidrot, ka relatīvais ceļš tiek skaitīts no tās ma
 Saglabā failu un veic commit ar ziņu Papildina README
 **ashveil**
 
-
+Pieraksti vienu secinājumu: kāpēc .md fails nav parasts teksta fails.
 
