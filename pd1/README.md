@@ -1,5 +1,6 @@
-Virsraksts
+# Virsraksts
+
 **Beatrise Ločmele**
 ## Palaišana
 
-## Ergonomika
+## Ergonomika : : :
