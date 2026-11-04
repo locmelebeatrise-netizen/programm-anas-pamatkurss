@@ -1,0 +1,3 @@
+# Saskaitīšana
+# atņemšana
+# Reizināšana
